@@ -1,0 +1,1 @@
+{"version":"1.0.2","name":"web/my_charts","closureName":"load__web__my_charts","sourceMapUri":"web/my_charts.sound.ddc.js.map","moduleUri":"web/my_charts.sound.ddc.js","fullDillUri":"web/my_charts.sound.ddc.full.dill","libraries":[{"name":"my_charts","importUri":"org-dartlang-app:///web/my_charts.dart","fileUri":"/web/my_charts.dart","partUris":[]}],"soundNullSafety":true}
